@@ -12,7 +12,7 @@
     <string name="description_notification_quit">Выход</string>
     <string name="description_toast_icon">Значок</string>
     <string name="description_activity_landing_background">фоновое изображение Shou</string>
-    <string name="description_activity_landing_brand">марка Shou</string>
+    <string name="description_activity_landing_brand">Марка Shou</string>
     <string name="description_activity_account_field_glyph_bio">Значок биографии</string>
     <string name="description_activity_account_video_thumbnail">Миниатюра видео</string>
     <string name="description_activity_game_thumbnail">Миниатюра игры</string>
@@ -21,7 +21,7 @@
     <string name="description_device_item_icon">Значок устройства</string>
     <string name="description_media_item_icon">Значок медиа</string>
     <string name="description_video_cover">Обложка видео</string>
-    <string name="description_play_pause">Воспроизвести пауза</string>
+    <string name="description_play_pause">Воспроизвести паузу</string>
     <string name="description_live">В прямом эфире</string>
     <string name="menu_next">Далее</string>
     <string name="menu_more">Показать больше</string>
@@ -57,7 +57,7 @@
     <string name="activity_account_btn_signed_in">Вход выполнен</string>
     <string name="activity_account_btn_forgot_password">Зыбыли пароль?</string>
     <string name="activity_account_btn_recover_password">Отправить инструкцию</string>
-    <string name="activity_account_btn_recovering_password">Отправка инструкции</string>
+    <string name="activity_account_btn_recovering_password">Отправка инструкцию</string>
     <string name="activity_account_btn_recover_complete">Инструкция была отправлена</string>
     <string name="activity_account_btn_reset_password">Сбросить пароля</string>
     <string name="activity_account_btn_reset_password_complete">Сброс пароля выполнен</string>
@@ -131,7 +131,7 @@
     <string name="activity_statistics_views">Просмотры</string>
     <string name="activity_statistics_likes">Отметки «Нравится»</string>
     <string name="activity_statistics_income">Доход</string>
-    <string name="activity_statistics_views_unit">Просмторы</string>
+    <string name="activity_statistics_views_unit">Просмотры</string>
     <string name="activity_statistics_likes_unit">Отметки «Нравится»</string>
     <string name="action_delete">Удалить</string>
     <string name="action_share">Поделиться</string>
